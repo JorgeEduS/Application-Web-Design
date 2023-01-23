@@ -16,7 +16,6 @@
 - Mi primer valor 
 + Mi segundo valor 
 * Mi tercer valor
-#### Finalmente, podremos agregar cursivas y negritas con ayuda del '_' para negritas y '*' para cursivas.
+#### Finalmente, podremos agregar cursivas con ayuda del '_' para negritas y '*' para cursivas.
 *Como en este caso, aqui es cursiva con ayuda del asterisco en ambos lados de la oracion.*
-##
 _Como en este otro caso, aqui son negritas con ayuda del guion bajo en ambos lados de la oracion._

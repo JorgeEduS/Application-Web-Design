@@ -21,5 +21,3 @@
 ## Finalmente, podremos agregar cursivas y negritas con ayuda del '_' para negritas y '*' para cursivas.
 *Como en este caso, aqui es cursiva con ayuda del '*' en ambos lados de la oracion.*
 _Como en este otro caso, aqui son negritas con ayuda del '_' en ambos lados de la oracion._
-## En caso de usar tres '*' o '_', se combinarian negritas y cursivas en una oracion.
-***Como en este caso podemos observar. ***

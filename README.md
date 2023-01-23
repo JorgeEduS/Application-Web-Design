@@ -7,7 +7,7 @@
 
 # Opciones que Markdown ofrece. 
 #### Markdown contiene distintas sintaxis que nos pueden ayudar a desarrollar un texto y su formato.
-## Si utilizamos dos ##, nos podria salir un titulo mas pequeno que si fuera solo uno.
+### Si utilizamos tres ###, nos podria salir un titulo mas pequeño que si fuera solo uno, como el de el titulo 'Opciones que Markdown ofrece' o 'Diseño de aplicaciones web'.
 #### Como podemos ver en este ejemplo, en este caso utilizamos cuatro #### y es menor que el anterior. 
 #### Todos estos '#' llegan hasta un maximo de seis.
 #### Tambien podemos hacer citas con ayuda del '>', como a continuacion. 

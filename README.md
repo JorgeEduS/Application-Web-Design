@@ -19,3 +19,17 @@
 #### Finalmente, podremos agregar cursivas con ayuda del '_' para negritas y '*' para cursivas.
 *Como en este caso, aqui es cursiva con ayuda del asterisco en ambos lados de la oracion.*
 _Como en este otro caso, aqui son negritas con ayuda del guion bajo en ambos lados de la oracion._
+# Commandos que Git ofrece. 
+#### Checar el status de un repositorio local seria con el comando: 'git status -s'.
+#### Agregar archivos individualmente o globalmente: 
+* 'git add .' para mandar todos.
+* 'git add "nombre"' para mandar individualmente. 
+#### Agregar comentarios con el commit: 'git commit -m "Aqui agregamos el comentario."'.
+#### Realizar cambios en el repositorio de la nube: 'git push'.
+#### Crear una rama nueva: 'git checkout -b <nombredelarama>'.
+#### Para poder ver las ramas hay 3 comandos:
+* 'git branch': para ver las ramas locales. 
+* 'git branch -r': para ver las ramas de la nube.
+* 'git branch -a': para ver todas las ramas locales y de la nube.
+#### Eliminar una rama: 'git branch --delete <nombredelarama>'.
+#### Regresar a un cambio del documento: 'git reset --hard numerodecambio'.
